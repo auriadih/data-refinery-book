@@ -18,10 +18,10 @@ Hospital](http://www.vsshp.fi/en/toimipaikat/tyks/Pages/default.aspx).
   and quality assessments, and
 * **Support** the development of medical sciences with open source tools.
 
-This page contains a (somewhat) *curated pdf-snapshot of the in-house Wiki* documentation
-system originally written in markdown. All the information is provided as a reference, as-is,
-and with no warranty under CC-BY-SA-4.0 license (see LICENSE for details). 
+This page contains a (somewhat) *curated pdf-snapshot of the in-house Wiki*
+documentation system originally written in markdown. All the information is
+provided as a reference, as-is, and with no warranty under CC-BY-SA-4.0 license
+(see LICENSE for details).Feel free to contact the authors directly, or through
+[Auria web page](https://www.auria.fi/en/index.php?lang=en).
 
-Feel free to contact the authors directly or through [Auria web page](https://www.auria.fi/en/index.php?lang=en).
-
--- The Clinical Informatics Tea
+-- The Clinical Informatics Team
